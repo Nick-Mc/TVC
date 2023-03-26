@@ -1,6 +1,9 @@
 # TVC
 ## Thrust Vector Controller Summary
-* This Repository will contain code that enables my thrust vector controller to work and basic a description of my methodology of its design. My goal is to have a functioning design by the end of May 2023.
+* This Repository will contain code that enables my thrust vector controller to work and basic a description of my methodology of its design. My goal is to have a design that can move the motor due using data from the IMU by the end of May 2023.
+
+## Why a TVC?
+I am currently a student studying aerospace engineering, and I wanted to start a personal project that was related to aerospace. I chose a TVC because it is a simple enough project that I can complete it during the semester, as well as being relatively cheap.
 ## Purchased Components
 * Micro Controller- [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)
   * I chose the Teensy 4.0 because its small for factor makes it easy to use and it has great computational power for it's price.
@@ -10,6 +13,7 @@
   * I chose the SG90 as my servo because of their size and price. I knew I didn't need anything too powerful for my design.
 * Mini Ball Bearings- [Ball Bearings](https://www.amazon.com/dp/B07XDZLWHQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   * These are the bearings I am currently using
+  
 ## Designed and 3D Printed components
 At this point I have not finished desiging or printed anything so this list is subject to change.
 * Motor Mount/ Gimbal
