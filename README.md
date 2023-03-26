@@ -8,6 +8,8 @@
   * I chose this breakout board by ada fruit because it includes Bosch's BNO055 which is an incredible sensor. 
 * Servos- [SG90](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
   * I chose the SG90 as my servo because of their size and price. I knew I didn't need anything too powerful for my design.
+* Mini Ball Bearings- [Ball Bearings](https://www.amazon.com/dp/B07XDZLWHQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+  * These are the bearings I am currently using
 ## Designed and 3D Printed components
 At this point I have not finished desiging or printed anything so this list is subject to change.
 * Motor Mount/ Gimbal
