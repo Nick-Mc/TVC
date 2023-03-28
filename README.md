@@ -6,7 +6,7 @@
 I am currently a student studying aerospace engineering, and I wanted to start a personal project that was related to aerospace. I chose a TVC because it is a simple enough project that I can complete it during the semester, as well as being relatively cheap.
 ## Purchased Components
 * Micro Controller- [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)
-![image info](./pictures/image.png)
+![image info](./images/teensy40_card10a_rev2.png)
   * I chose the Teensy 4.0 because its small for factor makes it easy to use and it has great computational power for it's price.
 * IMU (Inertia Measurement Unit)- [Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout](https://www.adafruit.com/product/2472)
   * I chose this breakout board by ada fruit because it includes Bosch's BNO055 which is an incredible sensor. 
