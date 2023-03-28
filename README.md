@@ -13,8 +13,8 @@ I am currently a student studying aerospace engineering, and I wanted to start a
   * I chose the SG90 as my servo because of their size and price. I knew I didn't need anything too powerful for my design.
 * Mini Ball Bearings- [Ball Bearings](https://www.amazon.com/dp/B07XDZLWHQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   * These are the bearings I am currently using
-*Battery holder-
-  *The battery holder is for powering the Microcontroller, IMU, and Servos.
+* Battery holder-
+  * The battery holder is for powering the Microcontroller, IMU, and Servos.
   
 ## Designed and 3D Printed components
 The remainder of the parts required for the contruction of the TVC will be 3D printed using my Ender 3 S1 3D printer.
