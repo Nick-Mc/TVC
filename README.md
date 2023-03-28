@@ -17,5 +17,5 @@ I am currently a student studying aerospace engineering, and I wanted to start a
   * The battery holder is for powering the Microcontroller, IMU, and Servos.
   
 ## Designed and 3D Printed components
-The remainder of the parts required for the contruction of the TVC will be 3D printed using my Ender 3 S1 3D printer.
+The remainder of the parts required for the contruction of the TVC will be 3D printed using my Ender 3 S1 by Creality.
 This includes a pseudo-engine.
