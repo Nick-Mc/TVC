@@ -9,16 +9,16 @@ I am currently a student studying aerospace engineering, and I wanted to start a
   * <img src="images/teensy40_card10a_rev2.png" style="width:20%;height:20%;">
   * I chose the Teensy 4.0 because its small for factor makes it easy to use and it has great computational power for it's price.
 * IMU (Inertia Measurement Unit)- [Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout](https://www.adafruit.com/product/2472)
-  * <img src="images/teensy40_card10a_rev2.png" style="width:20%;height:20%;">
+  * <img src="images/imu.jpg" style="width:20%;height:20%;">
   * I chose this breakout board by ada fruit because it includes Bosch's BNO055 which is an incredible sensor. 
 * Servos- [SG90](http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf)
-  * <img src="images/teensy40_card10a_rev2.png" style="width:20%;height:20%;">
+  * <img src="images/servo.jpg" style="width:20%;height:20%;">
   * I chose the SG90 as my servo because of their size and price. I knew I didn't need anything too powerful for my design.
 * Mini Ball Bearings- [Ball Bearings](https://www.amazon.com/dp/B07XDZLWHQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-  * <img src="images/teensy40_card10a_rev2.png" style="width:20%;height:20%;">
+  * <img src="images/minibearing.jpg" style="width:20%;height:20%;">
   * These are the bearings I am currently using
-* Battery holder-
-  * <img src="images/teensy40_card10a_rev2.png" style="width:20%;height:20%;">
+* Battery holder-[Battery Holder](https://www.amazon.com/dp/B07BNMKNQX?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+  * <img src="images/4aaBatteryPack.jpg" style="width:20%;height:20%;">
   * The battery holder is for powering the Microcontroller, IMU, and Servos.
   
 ## Designed and 3D Printed components
