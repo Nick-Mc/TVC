@@ -1,6 +1,6 @@
 # TVC
 ## Thrust Vector Controller Summary
-* This Repository will contain code that enables my thrust vector controller to work and basic a description of my methodology of its design. My goal is to have a design that can move the motor due using data from the IMU by the end of May 2023.
+* This Repository will contain code that enables my thrust vector controller to work and basic a description of my methodology of its design. My goal is to have a design that can move the motor using data from the IMU
 
 ## Why a TVC?
 I am currently a student studying aerospace engineering, and I wanted to start a personal project that was related to aerospace. I chose a TVC because it is a simple enough project that I can complete it during the semester, as well as being relatively cheap.
